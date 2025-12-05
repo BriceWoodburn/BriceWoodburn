@@ -21,7 +21,7 @@ I’m a junior Computing and Information Sciences student at RIT with a focus in
 ## Featured Projects
 
 ### CastIQ  
-A full-stack fishing analytics and tracking web application designed to log, analyze, and visualize fishing data.
+Developed a full-stack fishing tracker web application to log, analyze, and visualize fishing data.
 
 **Tech:** Python, SQL, Supabase, JavaScript, HTML, CSS  
 **Repo:** *https://github.com/BriceWoodburn/CastIQ*  
