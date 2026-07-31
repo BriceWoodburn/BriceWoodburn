@@ -1,6 +1,6 @@
 # Hi there, I'm Brice 👋
 
-I’m a junior Computing and Information Sciences student at RIT with a focus in Game Development who has a passion for learning, building, and making a difference through technology. I see technology as a powerful tool to create solutions for real-world problems that improve people’s lives. Driven by curiosity and a desire to grow, I’m motivated to make a positive difference in the world.
+I’m a senior Computing and Information Sciences student at RIT with a focus in Game Development who has a passion for learning, building, and making a difference through technology. I see technology as a powerful tool to create solutions for real-world problems that improve people’s lives. Driven by curiosity and a desire to grow, I’m motivated to make a positive difference in the world.
 
 
 ## What I Work On
@@ -10,12 +10,12 @@ I’m a junior Computing and Information Sciences student at RIT with a focus in
 
 
 ## Skills
-**Programming Languages:** C++, C#, Python, JavaScript, SQL, HTML5, CSS  
-**Frameworks & Engines:** Unity, Unreal Engine, FastAPI  
-**Core Skills:** Object-oriented programming, software architecture, debugging/testing, UI/UX design, simulation design  
+**Programming Languages:** C++, C#, Python, MATLAB, JavaScript, SQL, HTML5, CSS  
+**Frameworks & Engines:** Unity, Unreal Engine, Robot, FastAPI  
+**Core Skills:** Object-oriented programming, software architecture design, software verification & validation, automated testing, UI/UX design, simulation design  
 **Web & Backend:** REST APIs, database modeling, cloud PostgreSQL (Supabase)  
-**Software & Tools:** Git/GitHub, Visual Studio & Visual Studio Code, Rally, Windows OS, Microsoft Office  
-**Team & Project Skills:** Agile/Scrum, project coordination, documentation, communication, collaboration
+**Software & Tools:** Linux, Git/GitHub, Visual Studio & Visual Studio Code, Rally, Microsoft Office  
+**Project Management:** Agile/Scrum methodologies, sprint planning, technical documentation, project coordination, presentations
 
 
 ## Featured Projects
